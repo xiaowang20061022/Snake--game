@@ -1,0 +1,80 @@
+﻿  snake .c
+F:\project\Project4\snake\snake .c(1834,32): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1834,32): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1841,49): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1841,49): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1845,51): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1845,51): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1849,48): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1849,48): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1853,48): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1853,48): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1857,48): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1857,48): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1861,48): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1861,48): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1871,38): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1871,38): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1872,85): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1872,85): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1873,37): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1873,37): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1874,55): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1874,55): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1877,36): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1877,36): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1878,81): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1878,81): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1879,35): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1879,35): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1880,53): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1880,53): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1883,37): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1883,37): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1884,83): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1884,83): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1885,36): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1885,36): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1886,54): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1886,54): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1889,37): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1889,37): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1890,83): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1890,83): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1891,36): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1891,36): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1892,54): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1892,54): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1895,36): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1895,36): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1896,81): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1896,81): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1897,35): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1897,35): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1898,53): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1898,53): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1906,74): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1906,74): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1907,74): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1907,74): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1908,74): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1908,74): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1909,80): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1909,80): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1910,74): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1910,74): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1911,74): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1911,74): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1920,34): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1920,34): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1921,34): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1921,34): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1922,34): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1922,34): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1923,37): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1923,37): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1924,34): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1924,34): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+F:\project\Project4\snake\snake .c(1925,34): warning C4047: “函数”:“UINT”与“void *”的间接级别不同
+F:\project\Project4\snake\snake .c(1925,34): warning C4024: “mciSendStringW”: 形参和实参 3 的类型不同
+  snake.vcxproj -> F:\project\Project4\x64\Debug\snake.exe
