@@ -34,7 +34,7 @@
 
 菜单界面通过控制蛇去吃苹果来选择功能。
 
-English Transaction
+English Translation
 
 🍎 Console-Snake-Plus
 
